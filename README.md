@@ -8,7 +8,7 @@ Currently, `react-npclib` isn't yet at a minimum viable product. You can keep an
 I ran out of space on Roll20 and thought it would be a good idea to help out other people who are a little code-savvy.
 
 ## How do I use this thing?
-*You'll need to use Nodejs to use this, so be sure you have that installed. Then navigate to the root and `npm install`. After that, `npm run deploy` to create a build.*
+*You'll need to use Nodejs to use this, so make sure you have that installed. Then navigate to the root and `npm install`. After that, `npm run deploy` to create a build.*
 
 If you're serious about figuring out how this thing ticks before I work out an accessible interface, you can always fork the repository. 
 
@@ -30,3 +30,5 @@ I hope shortly to have an HTML file that'll let you set variables such as:
     * Descriptions
     * Portraits
 
+## Can I see it in action before I try it?
+I'll be adding instances of this as people try this repo out. In the meantime, [this](https://adamhungerford.github.io/react-npclib/) is what you'll see when you first spin up the React app.
