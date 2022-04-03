@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-npclib/static/css/main.0e3a4c52.css",
+    "main.js": "/react-npclib/static/js/main.44935161.js",
+    "static/js/787.b0c91402.chunk.js": "/react-npclib/static/js/787.b0c91402.chunk.js",
+    "index.html": "/react-npclib/index.html",
+    "main.0e3a4c52.css.map": "/react-npclib/static/css/main.0e3a4c52.css.map",
+    "main.44935161.js.map": "/react-npclib/static/js/main.44935161.js.map",
+    "787.b0c91402.chunk.js.map": "/react-npclib/static/js/787.b0c91402.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e3a4c52.css",
+    "static/js/main.44935161.js"
+  ]
+}
